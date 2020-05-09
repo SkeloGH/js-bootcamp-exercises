@@ -1,0 +1,14 @@
+/*
+String.prototype.charAt()
+String.prototype.concat()
+String.prototype.endsWith()
+String.prototype.includes()
+String.prototype.repeat()
+String.prototype.replace()
+String.prototype.slice()
+String.prototype.startsWith()
+String.prototype.substring()
+String.prototype.trim()
+String.prototype.trimEnd()
+String.prototype.trimStart()
+*/
